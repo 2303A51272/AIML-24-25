@@ -4,3 +4,5 @@
 
 #Assignment-02(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment2.ipynb)
 
+#Assignment-03(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment3.ipynb)
+

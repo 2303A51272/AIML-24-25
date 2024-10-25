@@ -9,3 +9,5 @@
 #Assignment-04(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment4.ipynb)
 
 #Assignment-05(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment5.ipynb)
+
+#Assignment-06(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment_06.ipynb)

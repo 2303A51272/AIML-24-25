@@ -10,12 +10,12 @@
 
 #Assignment-05(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment5.ipynb)
 
-#Assignment-06(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment_06.ipynb)
+#Assignment-06(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment6.ipynb)
 
-#Assignment-07(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment_07.ipynb)
+#Assignment-07(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment7.ipynb)
 
-#Assignment-08(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment_08.ipynb)
+#Assignment-08(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment8.ipynb)
 
 #Assignment-9(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment9.ipynb)
 
-#Assignment-10(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment_10_.ipynb)
+#Assignment-10(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment10.ipynb)

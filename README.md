@@ -17,3 +17,5 @@
 #Assignment-08(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment_08.ipynb)
 
 #Assignment-9(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment9.ipynb)
+
+#Assignment-10(https://github.com/2303A51272/AIML-24-25/blob/main/Assignment_10_.ipynb)
